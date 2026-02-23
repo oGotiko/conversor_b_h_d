@@ -11,6 +11,8 @@ Este é um **programa em C** que permite converter números entre **Binário, De
 - Validação de entrada para evitar números inválidos  
 - Fácil de estudar e modificar para fins educativos  
 
+## Se você tem medo de abrir executaveis na sensação Release, compile sua propia versão abaixo
+
 ## Como usar
 
 1. Compile o projeto:  
